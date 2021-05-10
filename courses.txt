@@ -1,0 +1,9 @@
+[{"level":"Beginner","price":5000,"author":"Kylie Simson","rating":"4","subject":"Computer Science","courseName":"HTML Tutorial","university":"University of toronto","studentsEnrolled":3000000,"type":"popular"},
+{"level":"Advanced","price":3000,"author":"Taruna Sharma","rating":"5","subject":"Computer Science","courseName":"Learning advanced HTML","university":"Cambridge University","studentsEnrolled":200000,"type":"trending"},
+{"level":"Advanced","price":4500,"author":"Vartika Jha","rating":"4","subject":"Computer Science","courseName":"Complete Web Developer","university":"University of toronto","studentsEnrolled":300000,"type":"popular"},
+{"level":"Intermediate","price":5500,"author":"Anuj Pandey","rating":"4","subject":"Computer Science","courseName":"You don't know JS","university":"Indian Institute of Technology","studentsEnrolled":200000,"type":"trending"},
+{"level":"Advanced","price":3500,"author":"Harman Singh","rating":"4","subject":"Computer Science","courseName":"CSS for styling","university":"Indian Institute of Technology","studentsEnrolled":70000,"type":"popular"},
+{"level":"Intermediate","price":6000,"author":"Kunal Shah","rating":"3","subject":"Computer Science","courseName":"NodeJS Tutorial","university":"University of Torento","studentsEnrolled":600000,"type":"trending"},
+{"level":"Beginner","price":4700,"author":"Sumneet Kaur","rating":"5","subject":"English","courseName":"Spoken English","university":"Georgia Institute of Technology and Management","studentsEnrolled":4000000,"type":"popular"},
+{"level":"Intermediate","price":5700,"author":"Simran Patwa","rating":"1","subject":"English","courseName":"Written English","university":"University of toronto","studentsEnrolled":5000000,"type":"trending"},
+{"level":"Beginner","price":3600,"author":"Aryabhatta","rating":"2","subject":"Maths","courseName":"Vedic Maths","university":"Delhi University","studentsEnrolled":2000,"type":"popular"}]
